@@ -2,7 +2,7 @@
  
  Technologies and Tools:
  
-*Javascript
-*jQuery
-*Html
-Css
+* Javascript
+* jQuery
+* Html
+* Css
